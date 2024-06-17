@@ -1,7 +1,13 @@
  {
-    "userId": 5,
-    "id": 5,
-    "title": "Prueba técnica Johanna Muñoz",
-    "completed": false
+  "posts": [
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "Prueba tecnica Johanna Muñoz",
+      "completed": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
- 
